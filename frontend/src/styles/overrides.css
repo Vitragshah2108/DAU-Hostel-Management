@@ -1,0 +1,11 @@
+/* Global overrides: fonts, scrollbars */
+html, body, #root { height: 100%; }
+body { margin: 0; font-family: Inter, Roboto, Arial, sans-serif; background: #f7f9fc; }
+
+/* Scrollbar */
+* { scrollbar-width: thin; scrollbar-color: #c1c7d0 transparent; }
+*::-webkit-scrollbar { height: 8px; width: 8px; }
+*::-webkit-scrollbar-thumb { background: #c1c7d0; border-radius: 8px; }
+*::-webkit-scrollbar-track { background: transparent; }
+
+
