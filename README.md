@@ -375,8 +375,7 @@ We welcome contributions! Please follow these steps:
 ## 📞 Contact
 
 For questions or support, please contact:
-- 📧 Email: support@dauhostel.com
-- 📱 GitHub Issues: [Create an issue](https://github.com/yourusername/DauHostelManagement/issues)
+- 📧 Email: 202412100@dau.ac.in
 
 ---
 
